@@ -12,3 +12,5 @@ llmai_venv/
 .idea/
 .vscode/
 *.pdf
+qdrant_db/
+storage/
